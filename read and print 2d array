@@ -5,7 +5,7 @@ int main()
   int column;
     printf("Enter row size: ");
   scanf("%d", &row);
-  printf("Ener column size: ");
+  printf("Enter column size: ");
   scanf("%d", &column);
   int arr[row][column];
 
