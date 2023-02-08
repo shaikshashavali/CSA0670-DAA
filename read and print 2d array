@@ -3,7 +3,7 @@ int main()
 {
   int row;
   int column;
-    printf("Ener row size: ");
+    printf("Enter row size: ");
   scanf("%d", &row);
   printf("Ener column size: ");
   scanf("%d", &column);
